@@ -1,7 +1,11 @@
 [  
    {  
       "key":"Software Statistics",
-      "values":[  
+      "values":[
+         {  
+            "label":"December",
+            "value":55
+         },
          {  
             "label":"January",
             "value":30
@@ -45,10 +49,6 @@
          {  
             "label":"November",
             "value":160
-         },
-         {  
-            "label":"December",
-            "value":55
          }
       ]
    }
