@@ -1,7 +1,7 @@
 [  
    {  
-      key:"Software Statistics",
-      values:[  
+      "key":"Software Statistics",
+      "values":[  
          {  
             "label":"25th Jun",
             "value":30
