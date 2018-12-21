@@ -1,0 +1,39 @@
+[  
+   {  
+      "key":"Software Statistics",
+      "values":[  
+         {  
+            "label":"25th Jun",
+            "value":500
+         },
+         {  
+            "label":"26th Jun",
+            "value":250
+         },
+         {  
+            "label":"27th Jun",
+            "value":189
+         },
+         {  
+            "label":"28th Jun",
+            "value":357
+         },
+         {  
+            "label":"29th Jun",
+            "value":120
+         },
+         {  
+            "label":"2nd July",
+            "value":550
+         },
+         {  
+            "label":"3rd July",
+            "value":288
+         },
+         {  
+            "label":"4th July",
+            "value":245
+         }
+      ]
+   }
+]
