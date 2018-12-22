@@ -3,36 +3,64 @@
       "key":"Software Statistics",
       "values":[  
          {  
-            "label":"25th Jun",
-            "value":500
+            "label":"January",
+            "value":30,
+            "years":2017
          },
          {  
-            "label":"26th Jun",
-            "value":250
+            "label":"February",
+            "value":35,
+            "years":2017
          },
          {  
-            "label":"27th Jun",
-            "value":189
+            "label":"March",
+            "value":125,
+            "years":2017
          },
          {  
-            "label":"28th Jun",
-            "value":357
+            "label":"April",
+            "value":187,
+            "years":2017
          },
          {  
-            "label":"29th Jun",
-            "value":120
+            "label":"May",
+            "value":90,
+            "years":2017
          },
          {  
-            "label":"2nd July",
-            "value":550
+            "label":"June",
+            "value":200,
+            "years":2017
          },
          {  
-            "label":"3rd July",
-            "value":288
+            "label":"July",
+            "value":160,
+            "years":2017
          },
          {  
-            "label":"4th July",
-            "value":245
+            "label":"August",
+            "value":55,
+            "years":2017
+         },
+         {  
+            "label":"September",
+            "value":90,
+            "years":2017
+         },
+         {  
+            "label":"October",
+            "value":200,
+            "years":2017
+         },
+         {  
+            "label":"November",
+            "value":160,
+            "years":2017
+         },
+         {  
+            "label":"December",
+            "value":55,
+            "years":2017
          }
       ]
    }
