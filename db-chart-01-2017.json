@@ -4,62 +4,62 @@
       "values":[  
          {  
             "label":"January",
-            "value":30,
+            "value":40,
             "years":2017
          },
          {  
             "label":"February",
-            "value":35,
+            "value":100,
             "years":2017
          },
          {  
             "label":"March",
-            "value":125,
+            "value":215,
             "years":2017
          },
          {  
             "label":"April",
-            "value":187,
+            "value":128,
             "years":2017
          },
          {  
             "label":"May",
-            "value":90,
+            "value":20,
             "years":2017
          },
          {  
             "label":"June",
-            "value":200,
+            "value":259,
             "years":2017
          },
          {  
             "label":"July",
-            "value":160,
+            "value":260,
             "years":2017
          },
          {  
             "label":"August",
-            "value":55,
+            "value":75,
             "years":2017
          },
          {  
             "label":"September",
-            "value":90,
+            "value":70,
             "years":2017
          },
          {  
             "label":"October",
-            "value":200,
+            "value":222,
             "years":2017
          },
          {  
             "label":"November",
-            "value":160,
+            "value":190,
             "years":2017
          },
          {  
             "label":"December",
-            "value":55,
+            "value":85,
             "years":2017
          }
       ]
