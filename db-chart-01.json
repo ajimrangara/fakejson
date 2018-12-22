@@ -1,55 +1,67 @@
 [  
    {  
-      "key":"Software Statistics",
-      "values":[
-         {  
-            "label":"December",
-            "value":55
-         },
+      key:"Software Statistics",
+      values:[  
          {  
             "label":"January",
-            "value":30
+            "value":30,
+            "year":2018
          },
          {  
             "label":"February",
-            "value":35
+            "value":35,
+            "year":2018
          },
          {  
             "label":"March",
-            "value":125
+            "value":125,
+            "year":2017
          },
          {  
             "label":"April",
-            "value":187
+            "value":187,
+            "year":2018
          },
          {  
             "label":"May",
-            "value":90
+            "value":90,
+            "year":2018
          },
          {  
             "label":"June",
-            "value":200
+            "value":200,
+            "year":2018
          },
          {  
             "label":"July",
-            "value":160
+            "value":160,
+            "year":2018
          },
          {  
             "label":"August",
-            "value":55
+            "value":55,
+            "year":2017
          },
          {  
             "label":"September",
-            "value":90
+            "value":90,
+            "year":2018
          },
          {  
             "label":"October",
-            "value":200
+            "value":200,
+            "year":2017
          },
          {  
             "label":"November",
-            "value":160
+            "value":160,
+            "year":2018
+         },
+         {  
+            "label":"December",
+            "value":55,
+            "year":2018
          }
       ]
    }
-]
+];
