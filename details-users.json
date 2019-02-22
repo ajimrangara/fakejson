@@ -1,5 +1,4 @@
-getEmployees(): any[] { 
-    return [
+[
       {
         "id": 1,
         "name": "Leanne Graham",
